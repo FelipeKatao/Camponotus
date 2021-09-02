@@ -1,0 +1,14 @@
+C:\Users\felipe.nascimento\Documents\Cursos\CamponotusDashboards\CamponotusDashboards\bin\Debug\netcoreapp2.1\CamponotusDashboards.deps.json
+C:\Users\felipe.nascimento\Documents\Cursos\CamponotusDashboards\CamponotusDashboards\bin\Debug\netcoreapp2.1\CamponotusDashboards.runtimeconfig.json
+C:\Users\felipe.nascimento\Documents\Cursos\CamponotusDashboards\CamponotusDashboards\bin\Debug\netcoreapp2.1\CamponotusDashboards.runtimeconfig.dev.json
+C:\Users\felipe.nascimento\Documents\Cursos\CamponotusDashboards\CamponotusDashboards\bin\Debug\netcoreapp2.1\CamponotusDashboards.dll
+C:\Users\felipe.nascimento\Documents\Cursos\CamponotusDashboards\CamponotusDashboards\bin\Debug\netcoreapp2.1\CamponotusDashboards.pdb
+C:\Users\felipe.nascimento\Documents\Cursos\CamponotusDashboards\CamponotusDashboards\obj\Debug\netcoreapp2.1\CamponotusDashboards.csprojAssemblyReference.cache
+C:\Users\felipe.nascimento\Documents\Cursos\CamponotusDashboards\CamponotusDashboards\obj\Debug\netcoreapp2.1\CamponotusDashboards.csproj.CoreCompileInputs.cache
+C:\Users\felipe.nascimento\Documents\Cursos\CamponotusDashboards\CamponotusDashboards\obj\Debug\netcoreapp2.1\CamponotusDashboards.RazorAssemblyInfo.cache
+C:\Users\felipe.nascimento\Documents\Cursos\CamponotusDashboards\CamponotusDashboards\obj\Debug\netcoreapp2.1\CamponotusDashboards.RazorAssemblyInfo.cs
+C:\Users\felipe.nascimento\Documents\Cursos\CamponotusDashboards\CamponotusDashboards\obj\Debug\netcoreapp2.1\CamponotusDashboards.AssemblyInfoInputs.cache
+C:\Users\felipe.nascimento\Documents\Cursos\CamponotusDashboards\CamponotusDashboards\obj\Debug\netcoreapp2.1\CamponotusDashboards.AssemblyInfo.cs
+C:\Users\felipe.nascimento\Documents\Cursos\CamponotusDashboards\CamponotusDashboards\obj\Debug\netcoreapp2.1\CamponotusDashboards.RazorTargetAssemblyInfo.cache
+C:\Users\felipe.nascimento\Documents\Cursos\CamponotusDashboards\CamponotusDashboards\obj\Debug\netcoreapp2.1\CamponotusDashboards.dll
+C:\Users\felipe.nascimento\Documents\Cursos\CamponotusDashboards\CamponotusDashboards\obj\Debug\netcoreapp2.1\CamponotusDashboards.pdb

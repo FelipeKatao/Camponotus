@@ -1,0 +1,1 @@
+﻿mongodb+srv://API:<password>@cluster0.miyoa.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
