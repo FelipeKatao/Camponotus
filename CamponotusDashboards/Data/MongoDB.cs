@@ -1,9 +1,9 @@
-using System;
 using Api.Data.Collections;
 using Microsoft.Extensions.Configuration;
 using MongoDB.Bson.Serialization;
 using MongoDB.Bson.Serialization.Conventions;
 using MongoDB.Driver;
+using System;
 
 namespace Api.Data
 {
